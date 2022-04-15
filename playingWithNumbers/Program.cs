@@ -10,7 +10,7 @@ namespace playingWithNumbers
     {
         static void Main(string[] args)
         {
-
+            // Need to be fast..
             var a = playingWithNumbers(new List<int>() { -1, 2, -3 }, new List<int>() { 1, -2, 3 });
             Console.ReadLine();
         }
@@ -26,8 +26,6 @@ namespace playingWithNumbers
                 }
                 result.Add(arr.Select(x => Math.Abs(x)).ToList().Sum());
             }
-
-
             return result;
         }
     }
