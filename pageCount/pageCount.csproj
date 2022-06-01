@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB48102F-9BB8-4D5B-AF0E-803B11E7CAEB}</ProjectGuid>
+    <ProjectGuid>{4039CF60-0ED8-44E3-8B3B-A4A49C7BBC77}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>birthday</RootNamespace>
-    <AssemblyName>birthday</AssemblyName>
+    <RootNamespace>pageCount</RootNamespace>
+    <AssemblyName>pageCount</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

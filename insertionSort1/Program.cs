@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace insertionSort1
 {
@@ -8,22 +7,21 @@ namespace insertionSort1
     {
         static void Main(string[] args)
         {
-            insertionSort1(14, new List<int>() { 1, 3, 5, 9, 13, 22, 27, 35, 46, 51, 55, 83, 87, 23 });
+            insertionSort1(5, new List<int>() { 1, 2, 4, 5, 3 });
             Console.ReadLine();
         }
         public static void insertionSort1(int n, List<int> arr)
         {
-            int last = arr[n - 2];
-            int temp = arr[n - 1];
             int i = n - 1;
-            while (true)
+            int tempVal = arr[i];
+            while (i > 0 && tempVal < arr[i - 1])
             {
-                if (n >= 0)
-                {
-
-                }
+                arr[i] = arr[i - 1];
+                Console.WriteLine(string.Join(" ", arr));
                 i--;
             }
+            arr[i] = tempVal;
+            Console.WriteLine(string.Join(" ", arr));
         }
     }
 }
