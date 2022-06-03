@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C8406A4-E3D6-48D4-BA9C-AE5A5D263AAF}</ProjectGuid>
+    <ProjectGuid>{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>getTotalX</RootNamespace>
     <AssemblyName>getTotalX</AssemblyName>

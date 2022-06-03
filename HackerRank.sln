@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birthday", "birthday\birthd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pageCount", "pageCount\pageCount.csproj", "{4039CF60-0ED8-44E3-8B3B-A4A49C7BBC77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getTotalX", "getTotalX\getTotalX.csproj", "{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{4039CF60-0ED8-44E3-8B3B-A4A49C7BBC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4039CF60-0ED8-44E3-8B3B-A4A49C7BBC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4039CF60-0ED8-44E3-8B3B-A4A49C7BBC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
