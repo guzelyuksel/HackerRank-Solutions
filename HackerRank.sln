@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pageCount", "pageCount\page
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getTotalX", "getTotalX\getTotalX.csproj", "{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formingMagicSquare", "formingMagicSquare\formingMagicSquare.csproj", "{79356118-4EB2-4B05-980B-2DA12453638A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "climbingLeaderboard", "climbingLeaderboard\climbingLeaderboard.csproj", "{FC54571A-5330-45BD-B679-0D784D235F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEC17BF5-DC9F-483D-9BD1-41EDA8B71C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79356118-4EB2-4B05-980B-2DA12453638A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79356118-4EB2-4B05-980B-2DA12453638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79356118-4EB2-4B05-980B-2DA12453638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79356118-4EB2-4B05-980B-2DA12453638A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC54571A-5330-45BD-B679-0D784D235F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC54571A-5330-45BD-B679-0D784D235F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC54571A-5330-45BD-B679-0D784D235F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC54571A-5330-45BD-B679-0D784D235F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
